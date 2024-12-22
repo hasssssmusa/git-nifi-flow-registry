@@ -55,7 +55,7 @@
       },
       "flowFileExpiration" : "0 sec",
       "groupIdentifier" : "flow-contents-group",
-      "identifier" : "44f9cdea-d47f-3b8f-99f6-d64b352ef89d",
+      "identifier" : "6415578a-7b0d-37e1-ab74-0e018bd480f8",
       "labelIndex" : 0,
       "loadBalanceCompression" : "DO_NOT_COMPRESS",
       "loadBalanceStrategy" : "DO_NOT_LOAD_BALANCE",
@@ -66,7 +66,7 @@
       "source" : {
         "comments" : "",
         "groupId" : "flow-contents-group",
-        "id" : "25f1b813-75fd-335e-be5b-de7c71a7158e",
+        "id" : "b96f53af-bc18-35e8-95c3-9d81ea958537",
         "name" : "GenerateFlowFile",
         "type" : "PROCESSOR"
       },
@@ -85,7 +85,7 @@
       },
       "flowFileExpiration" : "0 sec",
       "groupIdentifier" : "flow-contents-group",
-      "identifier" : "6415578a-7b0d-37e1-ab74-0e018bd480f8",
+      "identifier" : "44f9cdea-d47f-3b8f-99f6-d64b352ef89d",
       "labelIndex" : 0,
       "loadBalanceCompression" : "DO_NOT_COMPRESS",
       "loadBalanceStrategy" : "DO_NOT_LOAD_BALANCE",
@@ -96,7 +96,7 @@
       "source" : {
         "comments" : "",
         "groupId" : "flow-contents-group",
-        "id" : "b96f53af-bc18-35e8-95c3-9d81ea958537",
+        "id" : "25f1b813-75fd-335e-be5b-de7c71a7158e",
         "name" : "GenerateFlowFile",
         "type" : "PROCESSOR"
       },
@@ -234,7 +234,7 @@
         "y" : 200.0
       },
       "properties" : {
-        "log-level" : "info"
+        "log-level" : "warn"
       },
       "propertyDescriptors" : {
         "log-message" : {
