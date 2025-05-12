@@ -146,7 +146,7 @@
       "properties" : {
         "character-set" : "UTF-8",
         "File Size" : "0B",
-        "generate-ff-custom-text" : "{\n\t\"LLLL\":\"VVVVV\"\n}",
+        "generate-ff-custom-text" : "{\n\t\"LLLL\":\"فثفثف\"\n}",
         "Batch Size" : "1",
         "Unique FlowFiles" : "false",
         "Data Format" : "Text"
